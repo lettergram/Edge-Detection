@@ -1,4 +1,6 @@
-Chroma Tag Detector
+Edge Detection 
 =====
 
-Currently, just converts from rgb to Lab space.
+Implemented edge detection in OpenCV and matlab for use on [austingwalters.com](http://austingwalters.com)!
+
+Converts RGB images to the lab color space, then runs edge detection.
